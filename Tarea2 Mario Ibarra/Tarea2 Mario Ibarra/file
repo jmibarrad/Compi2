@@ -1,0 +1,6 @@
+y = (10*20)+12
+x = 33-34
+
+//comments here
+print x, " + " , y 
+print "hello flex"

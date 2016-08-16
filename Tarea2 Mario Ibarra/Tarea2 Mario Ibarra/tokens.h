@@ -1,0 +1,12 @@
+#define TK_SUM 1
+#define TK_SUB 2
+#define TK_MULT 3
+#define TK_DIV 4
+#define TK_VAR 5
+#define TK_RIGHT_PARENTHESIS 6
+#define TK_LEFT_PARENTHESIS 7
+#define TK_EQUAL 9
+#define NUMBER_LITERAL 10
+#define KW_PRINT 11
+#define TK_COMMA 12
+#define STRING_LITERAL 13
